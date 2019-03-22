@@ -1,0 +1,7 @@
+C:\Users\илья\Desktop\olymp\hord\hord\bin\Debug\hord.exe.config
+C:\Users\илья\Desktop\olymp\hord\hord\bin\Debug\hord.exe
+C:\Users\илья\Desktop\olymp\hord\hord\bin\Debug\hord.pdb
+C:\Users\илья\Desktop\olymp\hord\hord\obj\Debug\hord.csprojAssemblyReference.cache
+C:\Users\илья\Desktop\olymp\hord\hord\obj\Debug\hord.csproj.CoreCompileInputs.cache
+C:\Users\илья\Desktop\olymp\hord\hord\obj\Debug\hord.exe
+C:\Users\илья\Desktop\olymp\hord\hord\obj\Debug\hord.pdb
